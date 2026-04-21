@@ -1,2 +1,2 @@
-# AI-based-rice-yield-prediction
-MSc Data Science project: AI-based rice yield prediction using machine learning
+# Rice yield prediction in india Using AI
+MSc Data Science project: Rice yield prediction in india Using AI
