@@ -27,7 +27,7 @@ State and district information
 Crop year
 Cultivated area
 Production
-🎯 Target Variable
+Target Variable
 Yield = Production / Area
 Exploratory Data Analysis (EDA)
 
